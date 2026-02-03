@@ -22,3 +22,11 @@ b) Explain the role and responsibilities of the Scrum Master vs the Product Owne
    deliverables. The scrum master ensures that scrum principles (roles in a scrum team, collaboration, leading meetings, etc.) are being
    followed in a team. The product owner manages the backlog to ensure that the work being done by the team is actually moving towards a
    completed product that meets customer requirements. 
+
+c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+
+   The 3 meetings in a sprint cycle are: sprint planning meeting, daily standup meeting, and sprint retrospective meeting. In the sprint planning
+   meeting, the team identifies what needs to be completed in the next spring and moves relevant tasks from the backlog into a sprint to begin. The daily
+   standup meeting is short, and each team member describes the work they have done, will work on today, and any challenges they have blocking progress.
+   The sprint retrospective meeting is at the very end of a sprint, and the team discusses what work was completed and discusses any work that wasn't
+   completed that needs to be moved to the next sprint, and then ends the current sprint. 
