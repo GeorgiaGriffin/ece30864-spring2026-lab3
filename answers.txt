@@ -14,3 +14,11 @@ a) What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of ea
    A second con of Agile development is that there may be a less defined end to a project, which makes resource budgeting and allocation
    challenging. Agile focuses in incrementally adding features, and the team may lose sight of when they have reached the overall project
    requirements. 
+
+b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+   The basic difference between scrum master and product owner is that the scrum master's goal is to ensure the team is following scrum
+   principles and manages team dynamics, while the product owner's goal is to ensure the team is meeting project requirements and
+   deliverables. The scrum master ensures that scrum principles (roles in a scrum team, collaboration, leading meetings, etc.) are being
+   followed in a team. The product owner manages the backlog to ensure that the work being done by the team is actually moving towards a
+   completed product that meets customer requirements. 
