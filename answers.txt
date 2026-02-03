@@ -1,1 +1,16 @@
+a) What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
 
+   One pro of Agile development is that it allows for continuous integration and deployment. It can help a team quickly reach a
+   minimum viable product and release it, and then continue to improve it and add features. With non-agile, a team must essentially
+   complete a project before release. Non-agile is not conducive to releasing parts of a project at a time. This means it takes longer
+   to reach the first release.
+   A second pro of Agile development is that it can help a team stay focused on specific tasks, instead of getting overwhelmed by the
+   entirety of a project. A team focuses on very specific goals and deliverables for a short amount of time. This keeps people focused
+   on the task at hand and keeps the project moving forward with constant deliverables. 
+
+   A con of Agile development is that not all projects, especially very safet-critical ones, are a good fit for Agile because they cannot
+   be broken into distinct parts. For example, software that operates a safety mechanism on a vehicle cannot be release incrementally, it
+   must work entirely and with high confidence before being released/ implemented. 
+   A second con of Agile development is that there may be a less defined end to a project, which makes resource budgeting and allocation
+   challenging. Agile focuses in incrementally adding features, and the team may lose sight of when they have reached the overall project
+   requirements. 
