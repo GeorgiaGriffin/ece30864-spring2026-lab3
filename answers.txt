@@ -30,3 +30,10 @@ c) What are the 3 types of meetings that happen during a sprint cycle? List at l
    standup meeting is short, and each team member describes the work they have done, will work on today, and any challenges they have blocking progress.
    The sprint retrospective meeting is at the very end of a sprint, and the team discusses what work was completed and discusses any work that wasn't
    completed that needs to be moved to the next sprint, and then ends the current sprint. 
+
+d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+
+   An epic is the largest issue type. This encompasses a larger goal of a product, such as an entire feature, that can be broken into smaller units.
+   A story will define a system requirement of the epic it is under. The requirement should be described in a few sentences.
+   A task is an actionable, small piece of work to be completed. 
+   A bug is something that is preventing the completion/ success of another issue. 
